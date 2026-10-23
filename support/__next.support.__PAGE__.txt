@@ -1,0 +1,43 @@
+1:"$Sreact.fragment"
+2:"static/chunks/825-1a8f209f3ada760f.js"
+3:"static/chunks/app/layout-f7f0b9db6e2fe676.js"
+4:"PreferencesProvider"
+5:I[7710,["825","$2","177","$3"],"$4"]
+6:I[3141,["825","$2","177","$3"],"SiteHeader"]
+7:I[9630,[],""]
+8:"static/chunks/app/error-add95ac420633260.js"
+9:I[5803,["825","$2","39","$8"],"default"]
+a:I[1380,[],""]
+b:"static/chunks/app/support/page-d5aec510633bfd42.js"
+c:I[5587,["825","$2","174","$b"],""]
+d:I[1023,["825","$2","177","$3"],"SiteFooter"]
+1c:"ViewportBoundary"
+1d:I[887,[],"$1c"]
+1e:"MetadataBoundary"
+1f:I[887,[],"$1e"]
+20:"$Sreact.suspense"
+21:I[214,[],"IconMark"]
+:HL["/preview-life-rehearsal-demo/_next/static/css/83cd4e753f4cb315.css","style"]
+f:X
+12:X
+12:C
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"container page-space","children":[["$","div",null,{"className":"page-heading","children":[["$","p",null,{"className":"eyebrow","children":"YOU CAN REACH OUT"}],["$","h1",null,{"children":["可以先停下来，",["$","br",null,{}],["$","span",null,{"className":"accent-text","children":"让支持靠近一点。"}]]}],["$","div",null,{"className":"page-lead","children":["$","p",null,{"children":["不需要完成练习，也不需要解释所有感受。",["$","br",null,{}],"如果现在更需要现实中的帮助，可以从这里开始。"]}]}]]}],["$","section",null,{"className":"urgent-panel","children":[["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":[["$","path",null,{"d":"m12 3 8 3v6c0 5-8 9-8 9S4 17 4 12V6l8-3Z"}],["$","path",null,{"d":"m8 12 3 3 5-6"}]]}],["$","div",null,{"children":[["$","h2",null,{"children":"如果你此刻正面临安全危险"}],["$","p",null,{"children":"如果你有伤害自己或他人的危险，或已经受伤，请优先联系当地紧急服务，并尽可能联系一位能陪伴你的可信任的人。"}],["$","p",null,{"className":"small","children":"PREVIEW 没有实时人工值守，不能替你联系紧急服务。"}]]}]]}],["$","div",null,{"className":"support-region","children":[["$","span",null,{"children":"以下资源适用于中国大陆"}],["$","span",null,{"children":"资料核验：2026-10-21"}]]}],["$","div",null,{"className":"resource-grid","children":[["$","section","12356",{"className":"resource-card","children":[["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"m7 3 3 5-3 3c2 3 3 4 6 6l3-3 5 3c0 3-2 4-4 4C10 20 4 14 3 7c0-2 1-4 4-4Z"}]}],["$","h2",null,{"children":"心理援助热线"}],["$","a",null,{"href":"tel:12356","className":"resource-phone","aria-label":"拨打 心理援助热线 12356","children":["12356",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M6 18 18 6M6 6h12v12"}]}]]}],["$","p",null,{"children":"需要心理支持时，可联系当地心理援助服务。接通情况和服务时段以当地为准。"}],["$","span",null,{"className":"small muted","children":"点击号码，由你选择是否拨打"}]]}],["$","section","120",{"className":"resource-card","children":[["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":"$13:0:1:d:r:props:children:0:props:children:3:props:children:0:props:children:0:props:children"}],["$","h2",null,{"children":"医疗急救"}],["$","a",null,{"href":"tel:120","className":"resource-phone","aria-label":"拨打 医疗急救 120","children":["120",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":"$13:0:1:d:r:props:children:0:props:children:3:props:children:0:props:children:2:props:children:1:props:children"}]]}],["$","p",null,{"children":"已经受伤，或出现需要紧急医疗帮助的情况时，请优先联系医疗急救。"}],["$","span",null,{"className":"small muted","children":"点击号码，由你选择是否拨打"}]]}],["$","section","110",{"className":"resource-card","children":[["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":"$13:0:1:d:r:props:children:0:props:children:3:props:children:0:props:children:0:props:children"}],"$L14","$L15","$L16","$L17"]}]]}],"$L18","$L19"]}],null,"$L1a"]}],"p":"$@1b","v":null,"s":"$f"}}]]
+10:[["children",{"s":"support","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/preview-life-rehearsal-demo/_next/static/css/83cd4e753f4cb315.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L5",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"跳至主要内容"}],["$","$L6",null,{}],["$","main",null,{"id":"main-content","tabIndex":-1,"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$9","errorStyles":[],"errorScripts":null,"template":["$","$La",null,{}],"notFound":[["$","div",null,{"className":"container page-space narrow-page","children":[["$","div",null,{"className":"page-heading","children":[["$","p",null,{"className":"eyebrow","children":"404 / A DIFFERENT PATH"}],["$","h1",null,{"children":"这个空间还没有打开。"}],["$","div",null,{"className":"page-lead","children":["$","p",null,{"children":"页面可能不存在，或还在准备中。你可以回到首页，重新选择方向。"}]}]]}],["$","div",null,{"className":"button-row","children":[["$","$Lc",null,{"className":"button button--primary ","href":"/","children":["返回首页",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M4 12h15M13 6l6 6-6 6"}]}]]}],["$","$Lc",null,{"className":"button button--secondary ","href":"/support","children":["获取支持",false]}]]}]]}],[]]}]}],["$","$Ld",null,{}]]}]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1d",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1f",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$20",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"获取支持 · PREVIEW 人生预演室"}],["$","meta","1",{"name":"description","content":"在真实发生前，先和自己预演一次。可暂停、可重试的情境训练空间。心理实验室、导师情境与自主行动档案。当前体验版提供脚本练习。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/preview-life-rehearsal-demo/icon.svg?226e56f0122785a1","type":"image/svg+xml","sizes":"any"}],["$","$L21","4",{}]]}]}],null]}],null]}],"p":"$@22","v":null,"s":"$f"}},"a":"$@23","u":"$@24","b":"SBgavXCdlTGnVTDzTYgmf"}
+25:I[887,[],"OutletBoundary"]
+14:["$","h2",null,{"children":"报警求助"}]
+15:["$","a",null,{"href":"tel:110","className":"resource-phone","aria-label":"拨打 报警求助 110","children":["110",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":"$13:0:1:d:r:props:children:0:props:children:3:props:children:0:props:children:2:props:children:1:props:children"}]]}]
+16:["$","p",null,{"children":"面临需要警方处置的人身危险时，可联系报警服务。"}]
+17:["$","span",null,{"className":"small muted","children":"点击号码，由你选择是否拨打"}]
+18:["$","div",null,{"className":"prose-grid","children":[["$","section",null,{"className":"text-panel","children":[["$","h2",null,{"children":"也可以从身边的支持开始"}],["$","p",null,{"children":"联系一位可信任的朋友、同学或家人。也可查找本校心理中心的公开渠道，或联系当地专业机构。"}],["$","p",null,{"children":"若你不在中国大陆，请使用所在地的紧急服务与心理援助资源。"}]]}],["$","section",null,{"className":"text-panel","children":[["$","h2",null,{"children":"关于这些资源"}],["$","p",null,{"children":"12356 为全国统一心理援助热线号码，实际服务时段与接通情况以当地为准，不保证随时接通。"}],["$","a",null,{"className":"text-link","href":"https://www.nhc.gov.cn/yzygj/c100068/202412/49a1a65386cd4be582d4702fd0926ee8.shtml","target":"_blank","rel":"noreferrer","children":"查看国家卫生健康委来源 ↗"}]]}]]}]
+19:["$","$Lc",null,{"className":"button button--secondary ","href":"/","children":["返回首页",false]}]
+1a:["$","$L25",null,{"children":["$","$20",null,{"name":"Next.MetadataOutlet","children":"$@26"}]}]
+f:300
+26:null
+24:true
+f:C
+23:0
+11:"$undefined"
+e:"$undefined"
+22:"$undefined"
+1b:"$undefined"

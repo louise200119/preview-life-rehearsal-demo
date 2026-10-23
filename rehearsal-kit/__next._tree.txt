@@ -1,0 +1,4 @@
+:HL["/preview-life-rehearsal-demo/_next/static/css/83cd4e753f4cb315.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"rehearsal-kit","h":96,"c":"$Q2"}]]
+0:{"b":"SBgavXCdlTGnVTDzTYgmf","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

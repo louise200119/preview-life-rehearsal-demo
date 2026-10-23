@@ -1,0 +1,5 @@
+:HL["/preview-life-rehearsal-demo/_next/static/css/83cd4e753f4cb315.css","style"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"tool","t":"d","k":"identify","s":[]},"h":65632,"c":"$Q3"}]]
+1:[["children",{"s":"mind-lab","h":131168,"c":"$Q2"}]]
+0:{"b":"SBgavXCdlTGnVTDzTYgmf","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

@@ -1,0 +1,31 @@
+1:"$Sreact.fragment"
+2:"static/chunks/825-1a8f209f3ada760f.js"
+3:"static/chunks/app/settings/page-b60e55233b3d0b37.js"
+4:"PreferencesProvider"
+5:I[7710,["825","$2","662","$3"],"$4"]
+6:"static/chunks/app/layout-f7f0b9db6e2fe676.js"
+7:I[3141,["825","$2","177","$6"],"SiteHeader"]
+8:I[9630,[],""]
+9:"static/chunks/app/error-add95ac420633260.js"
+a:I[5803,["825","$2","39","$9"],"default"]
+b:I[1380,[],""]
+c:I[5587,["825","$2","662","$3"],""]
+d:I[1023,["825","$2","177","$6"],"SiteFooter"]
+11:I[7710,["825","$2","662","$3"],"MotionSettings"]
+12:I[887,[],"OutletBoundary"]
+13:"$Sreact.suspense"
+15:"ViewportBoundary"
+16:I[887,[],"$15"]
+18:"MetadataBoundary"
+19:I[887,[],"$18"]
+1b:I[5718,[],"default",1]
+:HL["/preview-life-rehearsal-demo/_next/static/css/83cd4e753f4cb315.css","style"]
+f:X
+10:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"container page-space narrow-page","children":[["$","div",null,{"className":"page-heading","children":[["$","p",null,{"className":"eyebrow","children":"MAKE YOURSELF COMFORTABLE"}],["$","h1",null,{"children":"让这里更适合你。"}],["$","div",null,{"className":"page-lead","children":["$","p",null,{"children":"调整浏览体验，始终保留自己的节奏。"}]}]]}],["$","section",null,{"className":"detail-panel","children":["$","$L11",null,{}]}],["$","section",null,{"className":"settings-status","children":[["$","h2",null,{"children":"数据与 AI"}],["$","p",null,{"className":"muted","children":"当前没有 AI 授权、心理文本或已保存的行动卡需要管理。"}],["$","$Lc",null,{"className":"button button--text ","href":"/privacy","children":["了解当前数据处理方式",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:2:props:children:props:notFound:0:props:children:1:props:children:0:props:children:1:props:children"}]]}]]}]]}],null,["$","$L12",null,{"children":["$","$13",null,{"name":"Next.MetadataOutlet","children":"$@14"}]}]]}],"p":false,"v":null}}]]
+e:[["children",{"s":"settings","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L8",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$f"},"c":"$Q10"}]]
+0:{"P":null,"c":["","settings",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/preview-life-rehearsal-demo/_next/static/css/83cd4e753f4cb315.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L5",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"跳至主要内容"}],["$","$L7",null,{}],["$","main",null,{"id":"main-content","tabIndex":-1,"children":["$","$L8",null,{"parallelRouterKey":"children","error":"$a","errorStyles":[],"errorScripts":null,"template":["$","$Lb",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"container page-space narrow-page","children":[["$","div",null,{"className":"page-heading","children":[["$","p",null,{"className":"eyebrow","children":"404 / A DIFFERENT PATH"}],["$","h1",null,{"children":"这个空间还没有打开。"}],["$","div",null,{"className":"page-lead","children":["$","p",null,{"children":"页面可能不存在，或还在准备中。你可以回到首页，重新选择方向。"}]}]]}],["$","div",null,{"className":"button-row","children":[["$","$Lc",null,{"className":"button button--primary ","href":"/","children":["返回首页",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M4 12h15M13 6l6 6-6 6"}]}]]}],["$","$Lc",null,{"className":"button button--secondary ","href":"/support","children":["获取支持",false]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$Ld",null,{}]]}]}]}]]}],"p":false,"v":null},"c":"$Qe"},"h":{"r":["$","$1","h",{"children":[null,["$","$L16",null,{"children":"$L17"}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$13",null,{"name":"Next.Metadata","children":"$L1a"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1b",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"SBgavXCdlTGnVTDzTYgmf"}
+f:C
+17:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1c:I[214,[],"IconMark"]
+14:null
+1a:[["$","title","0",{"children":"偏好设置 · PREVIEW 人生预演室"}],["$","meta","1",{"name":"description","content":"在真实发生前，先和自己预演一次。可暂停、可重试的情境训练空间。心理实验室、导师情境与自主行动档案。当前体验版提供脚本练习。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/preview-life-rehearsal-demo/icon.svg?226e56f0122785a1","type":"image/svg+xml","sizes":"any"}],["$","$L1c","4",{}]]

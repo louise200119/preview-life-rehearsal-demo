@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:"static/chunks/825-1a8f209f3ada760f.js"
+3:"static/chunks/app/layout-f7f0b9db6e2fe676.js"
+4:"PreferencesProvider"
+5:I[7710,["825","$2","177","$3"],"$4"]
+6:I[3141,["825","$2","177","$3"],"SiteHeader"]
+7:I[9630,[],""]
+8:"static/chunks/app/error-add95ac420633260.js"
+9:I[5803,["825","$2","39","$8"],"default"]
+a:I[1380,[],""]
+b:"static/chunks/66-6a897ebdadf2a138.js"
+c:"static/chunks/app/simulation/page-6c04cd01ce1ca208.js"
+d:I[5587,["825","$2","66","$b","4","$c"],""]
+e:I[1023,["825","$2","177","$3"],"SiteFooter"]
+13:"static/chunks/33-3112c2314852e13c.js"
+14:"static/chunks/471-e97a8add64dab184.js"
+15:"static/chunks/app/simulation/session/page-d8e83ae85d0e903f.js"
+16:I[5667,["825","$2","33","$13","66","$b","471","$14","35","$15"],"TrainingSession"]
+17:I[887,[],"OutletBoundary"]
+18:"$Sreact.suspense"
+1a:"ViewportBoundary"
+1b:I[887,[],"$1a"]
+1d:"MetadataBoundary"
+1e:I[887,[],"$1d"]
+20:I[5718,[],"default",1]
+:HL["/preview-life-rehearsal-demo/_next/static/css/83cd4e753f4cb315.css","style"]
+10:X
+12:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","$L16",null,{}],null,["$","$L17",null,{"children":["$","$18",null,{"name":"Next.MetadataOutlet","children":"$@19"}]}]]}],"p":false,"v":null}}]]
+11:[["children",{"s":"session","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$10"},"c":"$Q12"}]]
+f:[["children",{"s":"simulation","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$10"},"c":"$Q11"}]]
+0:{"P":null,"c":["","simulation","session",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/preview-life-rehearsal-demo/_next/static/css/83cd4e753f4cb315.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L5",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"跳至主要内容"}],["$","$L6",null,{}],["$","main",null,{"id":"main-content","tabIndex":-1,"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$9","errorStyles":[],"errorScripts":null,"template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"container page-space narrow-page","children":[["$","div",null,{"className":"page-heading","children":[["$","p",null,{"className":"eyebrow","children":"404 / A DIFFERENT PATH"}],["$","h1",null,{"children":"这个空间还没有打开。"}],["$","div",null,{"className":"page-lead","children":["$","p",null,{"children":"页面可能不存在，或还在准备中。你可以回到首页，重新选择方向。"}]}]]}],["$","div",null,{"className":"button-row","children":[["$","$Ld",null,{"className":"button button--primary ","href":"/","children":["返回首页",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M4 12h15M13 6l6 6-6 6"}]}]]}],["$","$Ld",null,{"className":"button button--secondary ","href":"/support","children":["获取支持",false]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$Le",null,{}]]}]}]}]]}],"p":false,"v":null},"c":"$Qf"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1b",null,{"children":"$L1c"}],["$","$L1e",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$18",null,{"name":"Next.Metadata","children":"$L1f"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$20",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"SBgavXCdlTGnVTDzTYgmf"}
+10:C
+1c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+21:I[214,[],"IconMark"]
+19:null
+1f:[["$","title","0",{"children":"导师情境 · 文字预演 · PREVIEW 人生预演室"}],["$","meta","1",{"name":"description","content":"在真实发生前，先和自己预演一次。可暂停、可重试的情境训练空间。心理实验室、导师情境与自主行动档案。当前体验版提供脚本练习。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/preview-life-rehearsal-demo/icon.svg?226e56f0122785a1","type":"image/svg+xml","sizes":"any"}],["$","$L21","4",{}]]

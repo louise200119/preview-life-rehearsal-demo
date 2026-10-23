@@ -1,0 +1,33 @@
+1:"$Sreact.fragment"
+2:"static/chunks/825-1a8f209f3ada760f.js"
+3:"static/chunks/app/layout-f7f0b9db6e2fe676.js"
+4:"PreferencesProvider"
+5:I[7710,["825","$2","177","$3"],"$4"]
+6:I[3141,["825","$2","177","$3"],"SiteHeader"]
+7:I[9630,[],""]
+8:"static/chunks/app/error-add95ac420633260.js"
+9:I[5803,["825","$2","39","$8"],"default"]
+a:I[1380,[],""]
+b:"static/chunks/66-6a897ebdadf2a138.js"
+c:"static/chunks/app/simulation/page-6c04cd01ce1ca208.js"
+d:I[5587,["825","$2","66","$b","4","$c"],""]
+e:I[1023,["825","$2","177","$3"],"SiteFooter"]
+12:I[6933,["825","$2","66","$b","4","$c"],"JourneyGuide"]
+13:I[9929,["825","$2","66","$b","4","$c"],"SceneDeck"]
+14:I[887,[],"OutletBoundary"]
+15:"$Sreact.suspense"
+17:"ViewportBoundary"
+18:I[887,[],"$17"]
+1a:"MetadataBoundary"
+1b:I[887,[],"$1a"]
+1d:I[5718,[],"default",1]
+:HL["/preview-life-rehearsal-demo/_next/static/css/83cd4e753f4cb315.css","style"]
+10:X
+11:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"simulation-page","children":[["$","header",null,{"className":"simulation-heading","children":[["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":[["$","span",null,{"className":"tiny-line"}],"02 / SIMULATION ROOM"]}],["$","h1",null,{"children":["如果那一刻，",["$","br",null,{}],["$","span",null,{"className":"accent-text","children":"可以先预演一次。"}]]}]]}],["$","p",null,{"children":["选一个与你有关的人生片段。",["$","br",null,{}],"在真正开口之前，先试试自己的表达。"]}]]}],["$","$L12",null,{}],["$","$L13",null,{}],["$","section",null,{"className":"kit-bridge","aria-labelledby":"kit-bridge-title","children":[["$","div",null,{"className":"kit-bridge-symbol","aria-hidden":"true","children":[["$","span",null,{}],["$","span",null,{}],["$","i",null,{"children":["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M8 5v14M16 5v14"}]}]}]]}],["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"BEYOND THE SCREEN / 人生预演盒"}],["$","h2",null,{"id":"kit-bridge-title","children":"让一次练习，有一个拿得走的提醒。"}],["$","p",null,{"children":"一张情境卡，一枚暂停圆牌，一张自己的行动卡。"}]]}],["$","$Ld",null,{"className":"button button--secondary ","href":"/rehearsal-kit","children":["打开预演盒",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:2:props:children:props:notFound:0:props:children:1:props:children:0:props:children:1:props:children"}]]}]]}]]}],null,["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":false,"v":null}}]]
+f:[["children",{"s":"simulation","h":512,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$10"},"c":"$Q11"}]]
+0:{"P":null,"c":["","simulation",""],"q":"","i":false,"t":{"t":{"s":"","h":528,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/preview-life-rehearsal-demo/_next/static/css/83cd4e753f4cb315.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"zh-CN","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L5",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"跳至主要内容"}],["$","$L6",null,{}],["$","main",null,{"id":"main-content","tabIndex":-1,"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$9","errorStyles":[],"errorScripts":null,"template":["$","$La",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","div",null,{"className":"container page-space narrow-page","children":[["$","div",null,{"className":"page-heading","children":[["$","p",null,{"className":"eyebrow","children":"404 / A DIFFERENT PATH"}],["$","h1",null,{"children":"这个空间还没有打开。"}],["$","div",null,{"className":"page-lead","children":["$","p",null,{"children":"页面可能不存在，或还在准备中。你可以回到首页，重新选择方向。"}]}]]}],["$","div",null,{"className":"button-row","children":[["$","$Ld",null,{"className":"button button--primary ","href":"/","children":["返回首页",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M4 12h15M13 6l6 6-6 6"}]}]]}],["$","$Ld",null,{"className":"button button--secondary ","href":"/support","children":["获取支持",false]}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","$Le",null,{}]]}]}]}]]}],"p":false,"v":null},"c":"$Qf"},"h":{"r":["$","$1","h",{"children":[null,["$","$L18",null,{"children":"$L19"}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":"$L1c"}]}],null]}],null]}],"p":false,"v":null}},"m":"$undefined","G":["$1d",[]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"SBgavXCdlTGnVTDzTYgmf"}
+10:C
+19:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+1e:I[214,[],"IconMark"]
+16:null
+1c:[["$","title","0",{"children":"人生预演室 · PREVIEW 人生预演室"}],["$","meta","1",{"name":"description","content":"在真实发生前，先和自己预演一次。可暂停、可重试的情境训练空间。心理实验室、导师情境与自主行动档案。当前体验版提供脚本练习。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/preview-life-rehearsal-demo/icon.svg?226e56f0122785a1","type":"image/svg+xml","sizes":"any"}],["$","$L1e","4",{}]]

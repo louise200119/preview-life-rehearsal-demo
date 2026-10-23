@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"static/chunks/825-1a8f209f3ada760f.js"
+3:"static/chunks/app/layout-f7f0b9db6e2fe676.js"
+4:"PreferencesProvider"
+5:I[7710,["825","$2","177","$3"],"$4"]
+6:I[3141,["825","$2","177","$3"],"SiteHeader"]
+7:I[9630,[],""]
+8:"static/chunks/app/error-add95ac420633260.js"
+9:I[5803,["825","$2","39","$8"],"default"]
+a:I[1380,[],""]
+b:"static/chunks/app/about/page-d5aec510633bfd42.js"
+c:I[5587,["825","$2","220","$b"],""]
+d:I[1023,["825","$2","177","$3"],"SiteFooter"]
+16:"ViewportBoundary"
+17:I[887,[],"$16"]
+18:"MetadataBoundary"
+19:I[887,[],"$18"]
+1a:"$Sreact.suspense"
+1b:I[214,[],"IconMark"]
+:HL["/preview-life-rehearsal-demo/_next/static/css/83cd4e753f4cb315.css","style"]
+f:X
+12:X
+12:C
+13:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","div",null,{"className":"container page-space","children":[["$","div",null,{"className":"page-heading","children":[["$","p",null,{"className":"eyebrow","children":"ABOUT PREVIEW"}],["$","h1",null,{"children":["为重要的时刻，",["$","br",null,{}],["$","span",null,{"className":"accent-text","children":"创造练习的空间。"}]]}],["$","div",null,{"className":"page-lead","children":["$","p",null,{"children":["PREVIEW 正在构建一个结合心理学理论与 AI 角色交互的情境训练工具，",["$","br",null,{"className":"desktop-break"}],"让觉察、练习和现实行动能够彼此连接。"]}]}]]}],["$","section",null,{"className":"about-process","children":[["$","h2",null,{"children":"识别 → 解融 → 清醒 → 联系"}],["$","ol",null,{"className":"process-grid","children":[["$","li","01",{"children":[["$","div",null,{"className":"step-top","children":[["$","span",null,{"className":"step-number","children":"01"}],["$","span",null,{"className":"step-line"}]]}],["$","h3",null,{"children":["识别",["$","span",null,{"children":"NOTICE"}]]}],["$","p",null,{"children":"看见情绪、想法，以及想要做出的反应。"}]]}],["$","li","02",{"children":[["$","div",null,{"className":"step-top","children":[["$","span",null,{"className":"step-number","children":"02"}],["$","span",null,{"className":"step-line"}]]}],["$","h3",null,{"children":["解融",["$","span",null,{"children":"MAKE SPACE"}]]}],["$","p",null,{"children":"与想法留一点距离，给选择腾出空间。"}]]}],["$","li","03",{"children":[["$","div",null,{"className":"step-top","children":[["$","span",null,{"className":"step-number","children":"03"}],["$","span",null,{"className":"step-line"}]]}],["$","h3",null,{"children":["清醒",["$","span",null,{"children":"FIND DIRECTION"}]]}],["$","p",null,{"children":"回到当下，找到此刻真正重视的方向。"}]]}],["$","li","04",{"children":[["$","div",null,{"className":"step-top","children":[["$","span",null,{"className":"step-number","children":"04"}],["$","span",null,{"className":"step-line"}]]}],["$","h3",null,{"children":["联系",["$","span",null,{"children":"TAKE A STEP"}]]}],["$","p",null,{"children":"回到情境再次尝试，形成现实中的小行动。"}]]}]]}],["$","p",null,{"className":"small muted","children":"这是 PREVIEW 自定义的产品流程，不是 ACT 官方四阶段模型，也不构成完整的治疗方案。"}]]}],["$","div",null,{"className":"prose-grid","children":[["$","section",null,{"className":"text-panel","children":[["$","p",null,{"className":"eyebrow","children":"THE APPROACH"}],["$","h2",null,{"children":"从理论出发，诚实面对验证。"}],["$","p",null,{"children":"设计参考 ACT 中与想法相处、当下觉察、价值和行动有关的思路。冻结与同节点重试，是本产品自行设计的交互方式。"}],["$","p",null,{"children":"理论依据不等于产品效果已经得到验证。目前尚无本产品的疗效数据、心理测量结果或临床认证。"}],["$","a",null,{"className":"text-link","href":"https://contextualscience.org/six_core_processes_act","target":"_blank","rel":"noreferrer","children":"阅读 ACBS 的 ACT 理论介绍 ↗"}]]}],["$","section",null,{"className":"text-panel","children":[["$","p",null,{"className":"eyebrow","children":"THE BOUNDARIES"}],["$","h2",null,{"children":"练习有边界，选择属于你。"}],["$","p",null,{"children":"产品不提供诊断，不替代心理咨询、心理治疗或紧急援助。现实中的权力关系与安全问题，需要认真对待。"}],["$","p",null,{"children":["当前可体验三项心理工具、导师情境、冻结与原句重试，以及自主保存和导出行动卡。","当前公开版使用固定剧本，在浏览器内运行，不调用 AI。","风险识别可能漏报或误报，训练文案尚待专业审阅。"]}],["$","$Lc",null,{"className":"button button--text ","href":"/privacy","children":["了解隐私与数据",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":"$0:t:t:d:r:props:children:1:props:children:props:children:props:children:2:props:children:props:notFound:0:props:children:1:props:children:0:props:children:1:props:children"}]]}]]}]]}]]}],null,"$L14"]}],"p":"$@15","v":null,"s":"$f"}}]]
+10:[["children",{"s":"about","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L7",null,{"parallelRouterKey":"children","template":["$","$La",null,{}]}]]}],"p":"$@11","v":"$12","s":"$f"},"c":"$Q13"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/preview-life-rehearsal-demo/_next/static/css/83cd4e753f4cb315.css","precedence":"next"}]],["$","html",null,{"lang":"zh-CN","data-scroll-behavior":"smooth","children":["$","body",null,{"children":["$","$L5",null,{"children":[["$","a",null,{"className":"skip-link","href":"#main-content","children":"跳至主要内容"}],["$","$L6",null,{}],["$","main",null,{"id":"main-content","tabIndex":-1,"children":["$","$L7",null,{"parallelRouterKey":"children","error":"$9","errorStyles":[],"errorScripts":null,"template":["$","$La",null,{}],"notFound":[["$","div",null,{"className":"container page-space narrow-page","children":[["$","div",null,{"className":"page-heading","children":[["$","p",null,{"className":"eyebrow","children":"404 / A DIFFERENT PATH"}],["$","h1",null,{"children":"这个空间还没有打开。"}],["$","div",null,{"className":"page-lead","children":["$","p",null,{"children":"页面可能不存在，或还在准备中。你可以回到首页，重新选择方向。"}]}]]}],["$","div",null,{"className":"button-row","children":[["$","$Lc",null,{"className":"button button--primary ","href":"/","children":["返回首页",["$","svg",null,{"width":"20","height":"20","viewBox":"0 0 24 24","fill":"none","stroke":"currentColor","strokeWidth":"1.4","strokeLinecap":"round","strokeLinejoin":"round","aria-hidden":"true","children":["$","path",null,{"d":"M4 12h15M13 6l6 6-6 6"}]}]]}],["$","$Lc",null,{"className":"button button--secondary ","href":"/support","children":["获取支持",false]}]]}]]}],[]]}]}],["$","$Ld",null,{}]]}]}]}]]}],"p":"$@e","v":null,"s":"$f"},"c":"$Q10"},"h":{"r":["$","$1","h",{"children":[null,["$","$L17",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L19",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$1a",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"关于 PREVIEW · PREVIEW 人生预演室"}],["$","meta","1",{"name":"description","content":"在真实发生前，先和自己预演一次。可暂停、可重试的情境训练空间。心理实验室、导师情境与自主行动档案。当前体验版提供脚本练习。"}],["$","meta","2",{"name":"robots","content":"noindex, nofollow"}],["$","link","3",{"rel":"icon","href":"/preview-life-rehearsal-demo/icon.svg?226e56f0122785a1","type":"image/svg+xml","sizes":"any"}],["$","$L1b","4",{}]]}]}],null]}],null]}],"p":"$@1c","v":null,"s":"$f"}},"a":"$@1d","u":"$@1e","b":"SBgavXCdlTGnVTDzTYgmf"}
+1f:I[887,[],"OutletBoundary"]
+14:["$","$L1f",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@20"}]}]
+f:300
+20:null
+1e:true
+f:C
+1d:0
+11:"$undefined"
+e:"$undefined"
+1c:"$undefined"
+15:"$undefined"
